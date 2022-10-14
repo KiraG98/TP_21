@@ -22,3 +22,4 @@ newClass::newClass(const newClass& orig) {
 newClass::~newClass() {
 }
 
+// v2
