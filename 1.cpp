@@ -1,9 +1,8 @@
 #include <iostream>
 #include <cstdlib>
+
 using namespace std;
 
-// Определение своей функции-предиката.
-// Проверяет условие: x в квадрате меньше 2.
 bool sqr_lt_2(double x)
 {
   return x*x < 2;
