@@ -15,7 +15,7 @@ int main()
   while (cin >> x) 
   {
     cout << "x*x < 2  == " << sqr_lt_2(x) << endl;
-    cin >>
+    cin >> // ввести значение
   }
   return EXIT_SUCCESS;
 }
